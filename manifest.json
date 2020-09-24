@@ -1,0 +1,17 @@
+{
+    "name": "کافه دوچرخه",
+    "short_name": "bicycle cafe",
+    "theme_color": "#141414",
+    "background_color": "#7f9d81",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://cafe-bicycle-menu.vercel.app/",
+    "description": "Blog and Resume for Christine Dodrill",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "./assets/img/logo/logo.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
